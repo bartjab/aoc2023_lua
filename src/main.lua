@@ -3,4 +3,5 @@
 small_input = false
 
 --dofile("day01.lua")
-dofile("day02.lua")
+--dofile("day02.lua")
+dofile("day03.lua")

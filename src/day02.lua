@@ -43,6 +43,7 @@ for line in io.lines() do
 end
 
 print(id_sum)
+io.close()
 
 -- PART 2
 
