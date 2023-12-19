@@ -11,4 +11,7 @@ small_input = false
 --dofile("day08.lua")
 --dofile("day09.lua")
 --dofile("day10.lua")
-dofile("day11.lua")
+--dofile("day11.lua")
+--dofile("day12.lua")
+--dofile("day13.lua")
+dofile("day14.lua")
